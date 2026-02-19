@@ -2,4 +2,5 @@
 models/
 results/
 .virtual_documents/
-**/checkpoint*/
+**/*checkpoint*/
+__pycache__
